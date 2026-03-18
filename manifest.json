@@ -1,0 +1,10 @@
+{
+  "display_name": "Lorebook Keyword Translator (RU)",
+  "version": "1.0.0",
+  "author": "Agent Zero",
+  "homePage": "",
+  "description": "Переводит Keywords (ключевые слова) в Lorebooks на русский язык с использованием онлайн-переводчика.",
+  "requires": [],
+  "entry": "index.js",
+  "style": "styles.css"
+}
